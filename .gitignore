@@ -1,0 +1,14 @@
+# Secrets
+.kaggle/kaggle.json
+
+# Data / outputs
+data/*
+!data/.gitkeep
+
+# Jupyter noise
+.ipynb_checkpoints/
+*.ipynb_orig
+
+# Python
+__pycache__/
+*.pyc

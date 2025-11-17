@@ -1,0 +1,9 @@
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.4.2
+matplotlib==3.8.4
+torch==2.3.0
+torchvision==0.18.0
+kaggle==1.6.17
+seaborn==0.13.2
+# Install RDKit separately (conda recommended) because PyPI wheels are limited
